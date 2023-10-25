@@ -1,2 +1,5 @@
-# Module-1-Challenge
-This is a repo for the module 1 challenge of the UCF Bootcamp.
+# Horiseon Social Services website
+
+This is a repository for the Horiseon website. Its been properly styled as requested and functions as expected.
+
+[Horiseon Social Solution Services Website](royreid3rd.github.io/module-1-challenge)
